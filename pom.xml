@@ -26,7 +26,7 @@
 
     <licenses>
         <license>
-            <name>Copyright (c) 2012, Alexander Solovyov</name>
+            <name>MIT</name>
             <url>https://github.com/piranha/keymage/blob/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
